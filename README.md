@@ -1,17 +1,3 @@
-# Portfolio Website - chhag.github.io
-
-This repository contains the source code for my personal portfolio website and GitHub profile README.
-
-## 🚀 GitHub Profile Setup
-
-To display this README on your GitHub profile:
-
-1. **Create a new repository** named exactly `chhag` (same as your username)
-2. **Make it public** and initialize with a README
-3. **Copy the content below** into that README.md file
-
----
-
 # Hi there! 👋 I'm a Full Stack Developer & Data Scientist
 
 <div align="center">
